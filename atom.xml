@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://konglegege.github.io</id>
+    <title>空了个格</title>
+    <updated>2022-05-19T19:04:31.464Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://konglegege.github.io"/>
+    <link rel="self" href="https://konglegege.github.io/atom.xml"/>
+    <subtitle>空了个格</subtitle>
+    <logo>https://konglegege.github.io/images/avatar.png</logo>
+    <icon>https://konglegege.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 空了个格</rights>
+    <entry>
+        <title type="html"><![CDATA[我是空了个格 博客还是调试中···]]></title>
+        <id>https://konglegege.github.io/post/wo-shi-kong-liao-ge-ge/</id>
+        <link href="https://konglegege.github.io/post/wo-shi-kong-liao-ge-ge/">
+        </link>
+        <updated>2022-05-19T18:59:13.000Z</updated>
+        <content type="html"><![CDATA[<p>我的博客来啦</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试一下]]></title>
+        <id>https://konglegege.github.io/post/ce-shi-yi-xia/</id>
+        <link href="https://konglegege.github.io/post/ce-shi-yi-xia/">
+        </link>
+        <updated>2022-05-19T18:27:41.000Z</updated>
+        <content type="html"><![CDATA[<p>测试一下</p>
+]]></content>
+    </entry>
+</feed>
